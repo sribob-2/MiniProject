@@ -286,3 +286,8 @@ Tailored Screening:
 Patient Education:
 - Educate patients about feature significance and encourage regular check-ups.
 Consult healthcare professionals for personalized advice
+
+## Instruction for executing the notebooks
+All notebooks were created and execuetd in jupyter notebook. If someone wants to reexecute, we recommend to do with the steps as follows:
+*Download the notebooks from github.
+*The code should run as it is in local PC, the dependencies need to be installed through PIP command.
